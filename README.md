@@ -44,13 +44,13 @@ Scikit-learn
 Matplotlib (optional for visualization)
 
 ## Project Workflow
-1️⃣ Data Collection
+1 Data Collection
 
 Download dataset from Kaggle
 
 Load using pandas
 
-2️⃣ Data Preprocessing
+2 Data Preprocessing
 
 Select relevant features
 
@@ -58,19 +58,19 @@ Handle missing values
 
 Split dataset into training and testing sets
 
-3️⃣ Model Training
+3 Model Training
 
 Apply Linear Regression
 
 Train model on training data
 
-4️⃣ Model Evaluation
+4 Model Evaluation
 
 Mean Squared Error (MSE)
 
 R² Score
 
-5️⃣ Prediction
+5 Prediction
 
 Predict house price for new input data
 
